@@ -498,7 +498,7 @@ section {
 }
 
 /* Dark mode support - Updated */
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: white) {
     .logo-main,
     .logo-main-sm {
         color: var(--white);
