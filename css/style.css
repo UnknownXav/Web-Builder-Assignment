@@ -731,7 +731,6 @@ html { scroll-padding-top: 80px; }
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
     #listings .card {
-        background-color: rgba(30, 30, 30, 0.95);
         border-color: rgba(255, 255, 255, 0.1);
     }
     
